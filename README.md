@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amalkuriakose
+- 👋 Hi, I’m Amal
 - 👀 I’m interested in DevOps/Cloud
 - 🌱 I’m currently learning DevOps tools
 
