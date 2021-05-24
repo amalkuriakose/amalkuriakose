@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amal
+- 👋 Hi, I’m Amal Kuriakose
 - 👀 I’m interested in DevOps/Cloud
 - 🌱 I’m currently learning DevOps tools
 
