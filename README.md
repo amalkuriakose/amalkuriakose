@@ -1,7 +1,7 @@
 # Hi, I’m Amal Kuriakose
 
 * I'm currently working as an SDE
-* I'm currentl learning DevOps/Cloud tools
+* I'm currently learning DevOps/Cloud tools
 * I'm looking for a job in Devops/Cloud
 
 ### Connect with me
