@@ -5,4 +5,4 @@
 * I'm looking for a job in Devops/Cloud
 
 #### Connect with me
-[LinkedIn](https://linkedin.com/in/amal-kuriakose-457b0916a)
+[LinkedIn](https://linkedin.com/in/amalkuriakose)
