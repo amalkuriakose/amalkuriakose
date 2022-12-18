@@ -1,8 +1,7 @@
 # Hi, I’m Amal Kuriakose
 
-* I'm currently working as an SDE
-* I'm currently learning DevOps/Cloud tools
-* I'm looking for a job in Devops/Cloud
+* I'm currently working as Cloud Engineer.
+* Have experience in Web Development, Software Development and Cloud Computing.
 
 #### Connect with me
 [LinkedIn](https://linkedin.com/in/amalkuriakose)
