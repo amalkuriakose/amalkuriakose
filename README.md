@@ -1,3 +1,3 @@
 # Hi, I’m Amal Kuriakose
 
-A result-oriented Cloud Engineer with several years of experience in building and optimizing cloud environments. Proven ability to design, implement, and automate scalable, reliable, and cost-effective cloud infrastructure solutions. Proficient in AWS, DevOps and infrastructure management tools. Passionate about technology, cloud and automation.
+A result-oriented Cloud & DevOps Engineer with a passion for automating infrastructure and accelerating software delivery. Proven expertise in building and maintaining scalable, reliable, and cost-effective cloud environments on AWS. Skilled in CI/CD pipelines, infrastructure as code, and container orchestration. Experienced in troubleshooting complex technical issues and driving automation initiatives.
